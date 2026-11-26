@@ -1,0 +1,37 @@
+[tool.pysen]
+version = "0.12"
+
+[tool.pysen.lint]
+enable_black = true
+enable_flake8 = true
+enable_isort = true
+enable_mypy = true
+mypy_preset = "strict"
+line_length = 120
+py_version = "py39"
+isort_known_first_party = ["locus_es", "locus_es_gpaw", "locus_gpaw", "locus_shell", "locus_es_qe"]
+mypy_path = ["es_core/src", "qe_plugin/src", "gpaw_plugin/src", "shell_term/src"]
+
+[tool.pysen.lint.source]
+includes = ["es_core/src", "es_core/tests", "shell_term/src", "shell_term/tests", "gpaw_plugin/src", "qe_plugin/src", "qe_plugin/tests", "tools"]
+
+[[tool.pysen.lint.mypy_targets]]
+  paths = ["es_core/src/locus_es", "es_core/tests"]
+
+[[tool.pysen.lint.mypy_targets]]
+  paths = ["shell_term/src/locus_shell", "shell_term/tests"]
+
+[[tool.pysen.lint.mypy_targets]]
+  paths = ["gpaw_plugin/src/locus_es_gpaw"]
+
+[[tool.pysen.lint.mypy_targets]]
+  paths = ["gpaw_plugin/src/locus_gpaw"]
+
+[[tool.pysen.lint.mypy_targets]]
+  paths = ["qe_plugin/src/locus_es_qe", "qe_plugin/tests"]
+
+[[tool.pysen.lint.mypy_targets]]
+  paths = ["tools"]
+
+[tool.pysen.plugin.annotations]
+script = "tools/pysen_annotations.py"

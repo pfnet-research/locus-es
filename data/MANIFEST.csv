@@ -1,0 +1,717 @@
+key,file,atoms,kpts,used_in,database_id
+AlGaN_x025_s1,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+AlGaN_x050_s1,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+AlGaN_x050_s2,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+AlGaN_x075_s1,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+AlGaN_x100_s1,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+CIGS_x000_s1,structures/alloys.json,64,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+CIGS_x025_s1,structures/alloys.json,64,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+CIGS_x050_s1,structures/alloys.json,64,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+CIGS_x050_s2,structures/alloys.json,64,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+CIGS_x075_s1,structures/alloys.json,64,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+CIGS_x100_s1,structures/alloys.json,64,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x000_s1,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x025_a1,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x025_a1_r332,structures/alloys.json,72,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x025_a2,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x025_s1,structures/alloys.json,32,"[5, 5, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x050_a1,structures/alloys.json,32,"[4, 4, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x050_a1_r332,structures/alloys.json,72,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x050_a3,structures/alloys.json,32,"[4, 4, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x050_s1,structures/alloys.json,32,"[4, 4, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x050_s2,structures/alloys.json,32,"[4, 4, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x075_a1,structures/alloys.json,32,"[4, 4, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x075_a1_r332,structures/alloys.json,72,"[3, 3, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x075_a4,structures/alloys.json,32,"[4, 4, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x075_s1,structures/alloys.json,32,"[4, 4, 3]","Fig. 5a, Table S-alloys",sqs
+InGaN_x100_s1,structures/alloys.json,32,"[4, 4, 3]","Fig. 5a, Table S-alloys",sqs
+aAl2O3_n100_s1,structures/amorphous.json,100,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aAl2O3_n100_s2,structures/amorphous.json,100,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aHfO2_n96_s1,structures/amorphous.json,96,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aHfO2_n96_s2,structures/amorphous.json,96,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aIGZO_i1g1z1_q13_s1,structures/amorphous.json,112,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aIGZO_i1g1z1_q13_s2,structures/amorphous.json,112,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aIGZO_i1g1z1_q13_s3,structures/amorphous.json,112,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aIGZO_i1g1z1_q13_s4,structures/amorphous.json,112,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aIGZO_i1g1z1_q13_s5,structures/amorphous.json,112,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aSiO2_n96_s1,structures/amorphous.json,96,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+aSiO2_n96_s2,structures/amorphous.json,96,"[3, 3, 3]","Fig. 5b, Table S-amorphous",amorphous
+GaAs_107946_kf1,structures/cell_representation.json,2,"[12, 12, 12]",SI cell representation,ICSD 107946
+GaAs_107946_kf2,structures/cell_representation.json,16,"[6, 6, 6]",SI cell representation,ICSD 107946
+GaAs_107946_kf3,structures/cell_representation.json,54,"[4, 4, 4]",SI cell representation,ICSD 107946
+MgO_9863_kf1,structures/cell_representation.json,2,"[12, 12, 12]",SI cell representation,ICSD 9863
+MgO_9863_kf2,structures/cell_representation.json,16,"[6, 6, 6]",SI cell representation,ICSD 9863
+MgO_9863_kf3,structures/cell_representation.json,54,"[4, 4, 4]",SI cell representation,ICSD 9863
+Ag2GeS3_41711,structures/crystals.json,12,"[4, 4, 5]","Fig. 2, Table S-gaps",mp-9900
+Ag2MoO4_238013,structures/crystals.json,14,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-19318
+Ag2O_247821,structures/crystals.json,6,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-353
+Ag2PdO2_51498,structures/crystals.json,5,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-5495
+Ag2S_44507,structures/crystals.json,12,"[7, 4, 4]","Fig. 2, Table S-gaps",mp-610517
+Ag2Se_260148,structures/crystals.json,12,"[7, 4, 4]","Fig. 2, Table S-gaps",mp-568936
+Ag3AsS3_61806,structures/crystals.json,14,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4431
+Ag3SbS3_64986,structures/crystals.json,14,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4515
+Ag5IO6_415893,structures/crystals.json,24,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-554648
+AgAlO2_99688,structures/crystals.json,16,"[5, 4, 5]","Fig. 2, Table S-gaps",mp-11794
+AgAlS2_604692,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-5782
+AgAlSe2_604704,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-14091
+AgAlTe2_28746,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-14092
+AgBiP2S6_170639,structures/crystals.json,20,"[5, 4, 3]","Fig. 2, Table S-gaps",mp-556434
+AgBiP2Se6_195334,structures/crystals.json,20,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-569126
+AgBr_65061,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps; Fig. 3b (d levels)",mp-23231
+AgCl_64734,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps; Fig. 3b (d levels); Fig. 5d (cost)",mp-22922
+AgF_18008,structures/crystals.json,2,"[9, 9, 9]","Fig. 2, Table S-gaps",mp-7592
+AgGaS2_605187,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-5342
+AgGaSe2_52570,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-5518
+AgGaTe2_71007,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4899
+AgI_56552,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps; Fig. 3b (d levels)",mp-22925
+AgI_56553,structures/crystals.json,4,"[7, 7, 4]","Fig. 2, Table S-gaps",mp-22894
+AgInO2_202429,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-22660
+AgInS2_51617,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-19833
+AgInSe2_52583,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-20554
+AgInTe2_236191,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-22386
+AgScP2Se6_195336,structures/crystals.json,20,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-13383
+Al2O3_31545,structures/crystals.json,10,"[6, 6, 6]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-1143
+AlAs_656315,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-2172
+AlN_602460,structures/crystals.json,4,"[10, 10, 6]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-661
+AlPO4_50100,structures/crystals.json,18,"[6, 6, 3]","Fig. 2, Table S-gaps",mp-3955
+AlP_52649,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-1550
+AlSb_609288,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-2624
+Ar_24788,structures/crystals.json,1,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-23155
+As2S3_15239,structures/crystals.json,20,"[7, 3, 3]","Fig. 2, Table S-gaps",mp-641
+As2Se3_44058,structures/crystals.json,20,"[7, 3, 3]","Fig. 2, Table S-gaps",mp-909
+As2Te3_196146,structures/crystals.json,10,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-484
+AsI3_56571,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-23218
+B12P2_62748,structures/crystals.json,14,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-28395
+BN_241875,structures/crystals.json,4,"[13, 13, 4]","Fig. 2, Table S-gaps",mp-984
+BN_77271,structures/crystals.json,2,"[12, 12, 12]","Fig. 2, Table S-gaps",mp-1639
+BP_602964,structures/crystals.json,2,"[9, 9, 9]","Fig. 2, Table S-gaps",mp-1479
+B_431643,structures/crystals.json,12,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-160
+Ba2BiInS5_261678,structures/crystals.json,18,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-864638
+Ba2InTaO6_261480,structures/crystals.json,10,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-1079630
+Ba3MgTa2O9_240279,structures/crystals.json,15,"[5, 5, 4]","Fig. 2, Table S-gaps",mp-6325
+BaAg2GeS4_10040,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-7394
+BaAg2SnS4_41898,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-555166
+BaBiBS4_248222,structures/crystals.json,14,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-861618
+BaBiO2Cl_79532,structures/crystals.json,10,"[4, 4, 5]","Fig. 2, Table S-gaps",mp-552806
+BaCeO3_exp,structures/crystals.json,20,"[5, 3, 5]","Fig. 2, Table S-gaps",exp
+BaCl2_262674,structures/crystals.json,12,"[4, 6, 3]","Fig. 2, Table S-gaps",mp-23199
+BaCu2GeS4_10006,structures/crystals.json,24,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-17947
+BaCu2S2_89573,structures/crystals.json,20,"[3, 7, 3]","Fig. 2, Table S-gaps",mp-5970
+BaCu2SnSe4_170857,structures/crystals.json,16,"[3, 5, 5]","Fig. 2, Table S-gaps",mp-12364
+BaCuTeF_245624,structures/crystals.json,8,"[7, 7, 3]","Fig. 2, Table S-gaps",mp-13287
+BaF2_64717,structures/crystals.json,3,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-1029
+BaGe2_409260,structures/crystals.json,24,"[3, 4, 3]","Fig. 2, Table S-gaps",mp-2139
+BaHgS2_251739,structures/crystals.json,16,"[7, 3, 4]","Fig. 2, Table S-gaps",mp-28007
+BaO_616005,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-1342
+BaS_52690,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-1500
+BaSbBS4_248221,structures/crystals.json,28,"[3, 5, 3]","Fig. 2, Table S-gaps",mp-866301
+BaSe_52696,structures/crystals.json,2,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-1253
+BaSi2_185375,structures/crystals.json,24,"[3, 4, 3]","Fig. 2, Table S-gaps",mp-1477
+BaSnO3_239582,structures/crystals.json,5,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-3163
+BaZn2As2_417000,structures/crystals.json,5,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-570198
+BaZnOS_171239,structures/crystals.json,8,"[4, 4, 5]","Fig. 2, Table S-gaps",mp-548469
+BeO_391224,structures/crystals.json,4,"[11, 11, 7]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-2542
+BeSe_616419,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-1541
+BeTe_616439,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-252
+Bi2O2CO3_252588,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-30200
+Bi2O3_189995,structures/crystals.json,20,"[4, 4, 5]","Fig. 2, Table S-gaps",mp-23195
+Bi2O3_94229,structures/crystals.json,20,"[5, 4, 4]","Fig. 2, Table S-gaps",mp-23262
+Bi2S3_153946,structures/crystals.json,20,"[3, 8, 3]","Fig. 2, Table S-gaps",mp-22856
+Bi2Se3_165226,structures/crystals.json,5,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-541837
+Bi2Te3_193330,structures/crystals.json,5,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-34202
+BiCuOSe_189174,structures/crystals.json,8,"[8, 8, 3]","Fig. 2, Table S-gaps",mp-23116
+BiF3_25567,structures/crystals.json,16,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-557466
+BiI3_53634,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-22849
+BiNSr3_152053,structures/crystals.json,5,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-570008
+BiOBr_61225,structures/crystals.json,6,"[8, 8, 4]","Fig. 2, Table S-gaps",mp-23072
+BiOCl_195115,structures/crystals.json,6,"[8, 8, 4]","Fig. 2, Table S-gaps",mp-22939
+BiOI_391354,structures/crystals.json,6,"[8, 8, 3]","Fig. 2, Table S-gaps",mp-22987
+BiSBr_31389,structures/crystals.json,12,"[4, 7, 3]","Fig. 2, Table S-gaps",mp-23324
+BiSCl_100173,structures/crystals.json,12,"[4, 8, 3]","Fig. 2, Table S-gaps",mp-23318
+BiSI_23631,structures/crystals.json,12,"[4, 7, 3]","Fig. 2, Table S-gaps",mp-23514
+BiSeBr_76649,structures/crystals.json,12,"[4, 7, 3]","Fig. 2, Table S-gaps",mp-569707
+BiSeI_280311,structures/crystals.json,12,"[3, 7, 3]","Fig. 2, Table S-gaps",mp-23020
+C_190650,structures/crystals.json,2,"[12, 12, 12]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-66
+Ca2Pb_58920,structures/crystals.json,12,"[4, 6, 3]","Fig. 2, Table S-gaps",mp-30478
+Ca2Si_158275,structures/crystals.json,12,"[4, 6, 3]","Fig. 2, Table S-gaps",mp-2517
+Ca2SnS4_429695,structures/crystals.json,28,"[3, 4, 5]","Fig. 2, Table S-gaps",mp-866503
+Ca2Sn_659611,structures/crystals.json,12,"[4, 6, 3]","Fig. 2, Table S-gaps",mp-22735
+CaB6_196516,structures/crystals.json,7,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-865
+CaCO3_52151,structures/crystals.json,10,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-3953
+CaCl2_246416,structures/crystals.json,6,"[5, 5, 7]","Fig. 2, Table S-gaps",mp-23214
+CaF2_82707,structures/crystals.json,3,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-2741
+CaH2_260873,structures/crystals.json,12,"[5, 8, 4]","Fig. 2, Table S-gaps",mp-23713
+CaMg2N2_79123,structures/crystals.json,5,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-5795
+CaO_261847,structures/crystals.json,2,"[9, 9, 9]","Fig. 2, Table S-gaps",mp-2605
+CaS_603165,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-1672
+CaSe_52788,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-1415
+CaSnO3_193658,structures/crystals.json,20,"[5, 4, 5]","Fig. 2, Table S-gaps",mp-4438
+CaZnOS_245309,structures/crystals.json,8,"[8, 8, 3]","Fig. 2, Table S-gaps",mp-7204
+CdAl2S4_83526,structures/crystals.json,7,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-5928
+CdAs2_609931,structures/crystals.json,6,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-471
+CdGa2S4_31354,structures/crystals.json,7,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-4452
+CdGa2Se4_30908,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-3772
+CdGa2Te4_25646,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-13949
+CdGeAs2_42098,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4953
+CdGeP2_100467,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-3668
+CdI2_43852,structures/crystals.json,3,"[7, 7, 4]","Fig. 2, Table S-gaps",mp-567259
+CdIn2S4_252372,structures/crystals.json,14,"[4, 4, 4]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-559200
+CdIn2Se4_151953,structures/crystals.json,7,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-568032
+CdIn2Se4_151954,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-22304
+CdO_exp,structures/crystals.json,2,"[9, 9, 9]","Fig. 2, Table S-gaps",exp
+CdP4_25605,structures/crystals.json,10,"[6, 6, 4]","Fig. 2, Table S-gaps",mp-7904
+CdS_154186,structures/crystals.json,4,"[7, 7, 4]","Fig. 2, Table S-gaps; Fig. 3b (d levels); Fig. 5d (cost)",mp-672
+CdSb2Se3Br2_159464,structures/crystals.json,16,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-567556
+CdSb_52830,structures/crystals.json,16,"[5, 4, 3]","Fig. 2, Table S-gaps",mp-1321
+CdSe_187310,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps; Fig. 3b (d levels)",mp-2691
+CdSe_415785,structures/crystals.json,4,"[7, 7, 4]","Fig. 2, Table S-gaps",mp-1070
+CdSiAs2_22187,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-3078
+CdSiP2_23696,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-4666
+CdSnAs2_44258,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-3829
+CdSnO3_181930,structures/crystals.json,10,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-754329
+CdSnP2_44257,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-5213
+CdTe_161693,structures/crystals.json,2,"[7, 7, 7]",Fig. 3b (d levels); calibration (ten semiconductors),mp-406
+CeO2_exp,structures/crystals.json,3,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-20194
+CrSi2_161434,structures/crystals.json,9,"[7, 7, 5]","Fig. 2, Table S-gaps",mp-1222
+Cs2AgBiBr6_291597,structures/crystals.json,10,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-1078250
+Cs2AgBiCl6_291598,structures/crystals.json,10,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-1078258
+Cs2AgVS4_50460,structures/crystals.json,16,"[3, 3, 4]","Fig. 2, Table S-gaps",mp-8684
+Cs2Au2Br6_170696,structures/crystals.json,10,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-569548
+Cs2Au2Cl6_6061,structures/crystals.json,10,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-23484
+Cs2Au2I6_59269,structures/crystals.json,10,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-28453
+Cs2Cd3Te4_90369,structures/crystals.json,18,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-567386
+Cs2Hg3I8_4074,structures/crystals.json,13,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-540574
+Cs2SnBr6_158957,structures/crystals.json,9,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-641923
+Cs2SnCl6_9023,structures/crystals.json,9,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-608555
+Cs2TeBr6_65058,structures/crystals.json,9,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-23405
+Cs2TeI6_38105,structures/crystals.json,9,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-540957
+Cs2TiAg2S4_280645,structures/crystals.json,18,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-10488
+Cs3Bi2Br9_1142,structures/crystals.json,14,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-27544
+Cs3Bi2I9_23124,structures/crystals.json,28,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-624214
+Cs3Sb2Br9_39824,structures/crystals.json,14,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-579560
+Cs3Sb2I9_84989,structures/crystals.json,28,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-23029
+Cs3Sb_53243,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-10378
+CsAu_58427,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-2667
+CsLaHgSe3_281441,structures/crystals.json,12,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-11124
+CsPbBr3_97851,structures/crystals.json,20,"[4, 3, 4]","Fig. 2, Table S-gaps",mp-567629
+CsPbBr3_cub,structures/crystals.json,5,"[6, 6, 6]","Fig. 2, Table S-gaps",model
+CsPbBr3_orth,structures/crystals.json,20,"[4, 4, 4]","Fig. 2, Table S-gaps",model
+CsPbCl3_cub,structures/crystals.json,5,"[6, 6, 6]","Fig. 2, Table S-gaps",model
+CsPbI3_cub,structures/crystals.json,5,"[6, 6, 6]","Fig. 2, Table S-gaps",model
+CsPbI3_gamma,structures/crystals.json,20,"[4, 4, 4]","Fig. 2, Table S-gaps",model
+CsSnBr3_4071,structures/crystals.json,5,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-27214
+CsSnBr3_cub,structures/crystals.json,5,"[6, 6, 6]","Fig. 2, Table S-gaps",model
+CsSnCl3_14199,structures/crystals.json,20,"[5, 4, 3]","Fig. 2, Table S-gaps",mp-27394
+CsSnI3_69996,structures/crystals.json,20,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-568570
+CsSnI3_cub,structures/crystals.json,5,"[6, 6, 6]","Fig. 2, Table S-gaps",model
+CsSnI3_gamma,structures/crystals.json,20,"[4, 4, 4]","Fig. 2, Table S-gaps",model
+CsYCdSe3_281433,structures/crystals.json,12,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-11116
+CsYHgSe3_281440,structures/crystals.json,12,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-11123
+CsYZnSe3_280847,structures/crystals.json,12,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-574620
+Cu2CdGeS4_26150,structures/crystals.json,16,"[4, 5, 5]","Fig. 2, Table S-gaps",mp-13982
+Cu2CdGeSe4_95235,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-10967
+Cu2GeS3_85138,structures/crystals.json,12,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-15252
+Cu2GeSe3_160386,structures/crystals.json,6,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4728
+Cu2GeSe3_192171,structures/crystals.json,12,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-677105
+Cu2O_172174,structures/crystals.json,6,"[7, 7, 7]","Fig. 2, Table S-gaps; Fig. 3b (d levels); Fig. 5d (cost)",mp-361
+Cu2S_16550,structures/crystals.json,12,"[7, 7, 3]","Fig. 2, Table S-gaps",mp-618991
+Cu2SnS3_91762,structures/crystals.json,12,"[5, 5, 4]","Fig. 2, Table S-gaps",mp-10519
+Cu2SnSe3_97966,structures/crystals.json,12,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-11658
+Cu2Te_77055,structures/crystals.json,6,"[7, 7, 4]","Fig. 2, Table S-gaps",mp-1861
+Cu2ZnGeSe4_93409,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-10824
+Cu2ZnSiS4_261367,structures/crystals.json,16,"[4, 5, 5]","Fig. 2, Table S-gaps",mp-977414
+Cu2ZnSnS4_184478,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-1025500
+Cu3AsS4_413350,structures/crystals.json,16,"[4, 5, 5]","Fig. 2, Table S-gaps",mp-3345
+Cu3AsSe4_610361,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-675626
+Cu3PS4_412240,structures/crystals.json,16,"[4, 5, 5]","Fig. 2, Table S-gaps",mp-3934
+Cu3PSe4_95412,structures/crystals.json,16,"[4, 5, 5]","Fig. 2, Table S-gaps",mp-5756
+Cu3SbS4_412239,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-5702
+Cu3SbSe4_400652,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-9814
+CuAlO2_60844,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-3748
+CuAlS2_42124,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-4979
+CuAlSe2_28734,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-8016
+CuBS2_156413,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-12954
+CuBiP2Se6_195341,structures/crystals.json,20,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-569715
+CuBr_78274,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps; Fig. 3b (d levels)",mp-22913
+CuCl_78270,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps; Fig. 3b (d levels); Fig. 5d (cost)",mp-22914
+CuGaO2_60846,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-4280
+CuGaS2_66864,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-5238
+CuGaSe2_42097,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4840
+CuGaTe2_74456,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-3839
+CuI_33724,structures/crystals.json,8,"[7, 4, 4]","Fig. 2, Table S-gaps; Fig. 3b (d levels)",mp-22895
+CuInS2_186714,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-22736
+CuInSe2_252780,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-22811
+CuInTe2_74460,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-22261
+CuSbSe2_418754,structures/crystals.json,16,"[5, 8, 3]","Fig. 2, Table S-gaps",mp-20331
+CuScO2_55689,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-4636
+CuTaN2_71136,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-8927
+FAPbI3_cub,structures/crystals.json,12,"[6, 6, 6]","Fig. 2, Table S-gaps",model
+FeP2_15027,structures/crystals.json,6,"[6, 5, 11]","Fig. 2, Table S-gaps",mp-20027
+FeS2_109377,structures/crystals.json,12,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-226
+Ga2O3_mp886,structures/crystals.json,10,"[10, 5, 5]","Fig. 2, Table S-gaps",mp-886
+Ga2S3_409550,structures/crystals.json,10,"[5, 5, 4]","Fig. 2, Table S-gaps",mp-539
+GaAs_107946,structures/crystals.json,2,"[8, 8, 8]",Fig. 3b (d levels); calibration (ten semiconductors),mp-2534
+GaN_157398,structures/crystals.json,4,"[9, 9, 6]",Fig. 3b (d levels); calibration (ten semiconductors),mp-804
+GaP_77087,structures/crystals.json,2,"[8, 8, 8]",Fig. 3b (d levels); calibration (ten semiconductors),mp-2490
+GaS_173940,structures/crystals.json,8,"[8, 8, 3]","Fig. 2, Table S-gaps",mp-2507
+GaSb_635318,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps; Fig. 3b (d levels)",mp-1156
+GaSe_63122,structures/crystals.json,8,"[8, 8, 3]","Fig. 2, Table S-gaps",mp-1943
+GaTe_8249,structures/crystals.json,12,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-542812
+GeAs2_23872,structures/crystals.json,24,"[3, 3, 8]","Fig. 2, Table S-gaps",mp-17524
+GeAs_86361,structures/crystals.json,12,"[8, 4, 3]","Fig. 2, Table S-gaps",mp-9548
+GeO2_92551,structures/crystals.json,6,"[7, 7, 10]","Fig. 2, Table S-gaps",mp-470
+GeSe_41738,structures/crystals.json,8,"[3, 8, 7]","Fig. 2, Table S-gaps",mp-700
+Ge_184252,structures/crystals.json,2,"[8, 8, 8]",calibration (ten semiconductors),mp-32
+HfNBr_95720,structures/crystals.json,6,"[9, 7, 3]","Fig. 2, Table S-gaps",mp-568346
+HfO2_173158,structures/crystals.json,12,"[6, 6, 6]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-352
+HfS2_601164,structures/crystals.json,3,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-985829
+HfSe2_195308,structures/crystals.json,3,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-985831
+Hg2I2_262368,structures/crystals.json,4,"[6, 6, 4]","Fig. 2, Table S-gaps",mp-22859
+Hg4As2CdI4_416973,structures/crystals.json,22,"[4, 3, 4]","Fig. 2, Table S-gaps",mp-570838
+HgGa2S4_67220,structures/crystals.json,7,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-4809
+HgGa2Se4_83712,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4730
+HgI2_181575,structures/crystals.json,6,"[7, 7, 3]","Fig. 2, Table S-gaps",mp-23192
+HgIn2Se4_25649,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-20731
+HgIn2Te4_25652,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-19765
+HgO_14124,structures/crystals.json,8,"[5, 5, 8]","Fig. 2, Table S-gaps",mp-1224
+HgS_81917,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-1123
+HgS_81923,structures/crystals.json,6,"[7, 7, 3]","Fig. 2, Table S-gaps",mp-634
+HgSnO3_260029,structures/crystals.json,10,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-13554
+In2O3_exp,structures/crystals.json,40,"[3, 3, 3]","Fig. 2, Table S-gaps",exp
+In2Se3_5419,structures/crystals.json,5,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-19907
+In2Se3_640498,structures/crystals.json,5,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-20830
+In6S7_15317,structures/crystals.json,26,"[3, 8, 3]","Fig. 2, Table S-gaps",mp-555853
+In6Se7_9135,structures/crystals.json,26,"[3, 7, 3]","Fig. 2, Table S-gaps",mp-567596
+InAs_41444,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps; Fig. 3b (d levels)",mp-20305
+InBi2S4Cl_484,structures/crystals.json,8,"[5, 5, 4]","Fig. 2, Table S-gaps",mp-559521
+InBi2Se4Br_159465,structures/crystals.json,16,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-571169
+InGaZnO4_mp1215688,structures/crystals.json,7,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-1215688
+InN_109463,structures/crystals.json,4,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-22205
+InPS4_1699,structures/crystals.json,6,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-20790
+InP_41443,structures/crystals.json,2,"[7, 7, 7]",Fig. 3b (d levels); calibration (ten semiconductors),mp-20351
+InS_81338,structures/crystals.json,8,"[6, 3, 8]","Fig. 2, Table S-gaps",mp-19795
+InSb2S4Br_159467,structures/crystals.json,16,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-559864
+InSb2S4Cl_159468,structures/crystals.json,16,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-556541
+InSb2Se4Br_159466,structures/crystals.json,16,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-570321
+InSb_162196,structures/crystals.json,2,"[7, 7, 7]",Fig. 3b (d levels); calibration (ten semiconductors),mp-20012
+InTe_169418,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-20320
+K2AgVS4_66840,structures/crystals.json,16,"[3, 3, 4]","Fig. 2, Table S-gaps",mp-8900
+K2Au2SnS4_74022,structures/crystals.json,18,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-557121
+K2AuPS4_85679,structures/crystals.json,16,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-9509
+K2CsSb_53237,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-581024
+K2Hg3Ge2S8_281506,structures/crystals.json,15,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-11131
+K2La2Ti3O10_74193,structures/crystals.json,17,"[3, 3, 3]",benchmark set (not in a figure),mp-6548
+K2PbGe2S6_170601,structures/crystals.json,22,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-561132
+K2TeBr6_22078,structures/crystals.json,18,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-22963
+K2TeI6_23649,structures/crystals.json,18,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-27688
+K2ZnTe2_420088,structures/crystals.json,10,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-12535
+K3Sb_44677,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-10159
+K3Sb_656327,structures/crystals.json,8,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-14017
+K6CdTe4_420087,structures/crystals.json,22,"[3, 4, 3]","Fig. 2, Table S-gaps",mp-17698
+KAg2PS4_420033,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-12532
+KAg2SbS4_82143,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-9490
+KBiSiS4_421485,structures/crystals.json,28,"[5, 4, 3]","Fig. 2, Table S-gaps",mp-866651
+KBr_187220,structures/crystals.json,2,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-23251
+KCl_165593,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-23193
+KCu3S2_100001,structures/crystals.json,12,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-9868
+KCu4AsS4_420017,structures/crystals.json,20,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-557728
+KTaO3_280424,structures/crystals.json,5,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-3614
+Kr_43726,structures/crystals.json,1,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-612118
+La2O3_56771,structures/crystals.json,5,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-1968
+LaCuOS_96343,structures/crystals.json,8,"[8, 8, 4]",benchmark set (not in a figure),mp-6088
+LaCuOSe_96758,structures/crystals.json,8,"[7, 7, 3]","Fig. 2, Table S-gaps",mp-552488
+LaCuOTe_416522,structures/crystals.json,8,"[7, 7, 3]","Fig. 2, Table S-gaps",mp-546790
+LaF3_252346,structures/crystals.json,24,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-905
+LaZnAsO_420204,structures/crystals.json,8,"[7, 7, 3]","Fig. 2, Table S-gaps",mp-549589
+LaZnPO_85777,structures/crystals.json,8,"[7, 7, 3]","Fig. 2, Table S-gaps",mp-7060
+LiAsS2_419061,structures/crystals.json,8,"[5, 5, 6]","Fig. 2, Table S-gaps",mp-555874
+LiAsSe2_248116,structures/crystals.json,8,"[4, 4, 5]","Fig. 2, Table S-gaps",mp-1078724
+LiBr_52236,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-23259
+LiCl_26909,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-22905
+LiF_62361,structures/crystals.json,2,"[11, 11, 11]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-1138
+LiGaTe2_162555,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-5048
+LiH_173177,structures/crystals.json,2,"[10, 10, 10]","Fig. 2, Table S-gaps",mp-23703
+LiIO3_35473,structures/crystals.json,10,"[6, 5, 5]","Fig. 2, Table S-gaps",mp-22955
+LiInI4O12_422056,structures/crystals.json,18,"[6, 5, 3]","Fig. 2, Table S-gaps",mp-973966
+LiInSe2_60838,structures/crystals.json,16,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-20310
+LiNbO3_28294,structures/crystals.json,40,"[6, 5, 3]","Fig. 2, Table S-gaps",mp-3731
+LiTaO3_239372,structures/crystals.json,10,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-3666
+LiZnAs_74504,structures/crystals.json,3,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-9124
+LiZnN_16790,structures/crystals.json,3,"[9, 9, 9]","Fig. 2, Table S-gaps",mp-7575
+LiZnP_642242,structures/crystals.json,3,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-10182
+MAPbI3_orth,structures/crystals.json,48,"[4, 4, 4]","Fig. 2, Table S-gaps",model
+Mg2Ge_81735,structures/crystals.json,3,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-408
+Mg2Si_180944,structures/crystals.json,3,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-1367
+Mg2Sn_104870,structures/crystals.json,3,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-2343
+Mg3Sb2_245692,structures/crystals.json,5,"[7, 7, 4]","Fig. 2, Table S-gaps",mp-2646
+MgF2_8120,structures/crystals.json,6,"[7, 7, 10]","Fig. 2, Table S-gaps",mp-1249
+MgO_9863,structures/crystals.json,2,"[10, 10, 10]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-1265
+MgSiP2_22189,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-2961
+MgTe_642882,structures/crystals.json,4,"[7, 7, 4]","Fig. 2, Table S-gaps",mp-1039
+MoS2_95569,structures/crystals.json,6,"[10, 10, 3]","Fig. 2, Table S-gaps",mp-2815
+MoSe2_601045,structures/crystals.json,6,"[9, 9, 3]","Fig. 2, Table S-gaps",mp-1634
+MoTe2_644476,structures/crystals.json,6,"[9, 9, 3]","Fig. 2, Table S-gaps",mp-602
+Na2CdSnS4_281233,structures/crystals.json,8,"[4, 4, 5]","Fig. 2, Table S-gaps",mp-561075
+Na2KSb_44332,structures/crystals.json,4,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-15724
+Na2TeSe3_430312,structures/crystals.json,24,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-573581
+Na2Ti3O7_250000,structures/crystals.json,24,"[4, 8, 3]","Fig. 2, Table S-gaps",mp-3488
+Na3Sb_26882,structures/crystals.json,8,"[6, 6, 3]","Fig. 2, Table S-gaps",mp-7956
+NaAsS2_854,structures/crystals.json,16,"[5, 3, 5]","Fig. 2, Table S-gaps",mp-5942
+NaBr_41440,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-22916
+NaCl_181148,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-22862
+NaF_262837,structures/crystals.json,2,"[9, 9, 9]","Fig. 2, Table S-gaps",mp-682
+NaI_61502,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-23268
+NaLa2TaO6_159206,structures/crystals.json,20,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-13019
+NaSbP2S6_155270,structures/crystals.json,20,"[5, 4, 3]","Fig. 2, Table S-gaps",mp-561303
+NaTaO3_239690,structures/crystals.json,20,"[5, 4, 6]","Fig. 2, Table S-gaps",mp-3858
+NaYbP2S6_93758,structures/crystals.json,20,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-10838
+Ne_43427,structures/crystals.json,1,"[10, 10, 10]","Fig. 2, Table S-gaps",mp-111
+OsAs2_238253,structures/crystals.json,6,"[6, 5, 10]","Fig. 2, Table S-gaps",mp-2455
+OsP2_238252,structures/crystals.json,6,"[6, 5, 10]","Fig. 2, Table S-gaps",mp-2319
+OsSb2_238254,structures/crystals.json,6,"[5, 4, 9]","Fig. 2, Table S-gaps",mp-2695
+P3N5_56876,structures/crystals.json,16,"[6, 6, 3]","Fig. 2, Table S-gaps",mp-567907
+P_417180,structures/crystals.json,4,"[5, 5, 7]","Fig. 2, Table S-gaps",mp-157
+PbBr2_36170,structures/crystals.json,12,"[4, 6, 3]","Fig. 2, Table S-gaps",mp-28077
+PbCl2_27736,structures/crystals.json,12,"[4, 7, 3]","Fig. 2, Table S-gaps",mp-23291
+PbCrO4_40920,structures/crystals.json,24,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-19146
+PbCuSbS3_427413,structures/crystals.json,24,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-649774
+PbI2_68819,structures/crystals.json,3,"[7, 7, 4]","Fig. 2, Table S-gaps",mp-22893
+PbS_62190,structures/crystals.json,8,"[4, 7, 5]","Fig. 2, Table S-gaps",mp-21276
+PbSeO4_40921,structures/crystals.json,24,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-22342
+PbSe_62195,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-2201
+PbTe_63098,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-19717
+PdS2_648747,structures/crystals.json,12,"[6, 5, 4]","Fig. 2, Table S-gaps",mp-13682
+PdS_61063,structures/crystals.json,16,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-20250
+PdSe2_170327,structures/crystals.json,12,"[5, 5, 4]","Fig. 2, Table S-gaps",mp-2418
+PtSb2_43105,structures/crystals.json,12,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-562
+Rb2AgVS4_66841,structures/crystals.json,16,"[3, 3, 4]","Fig. 2, Table S-gaps",mp-8901
+Rb2Cu2SnS4_74020,structures/crystals.json,18,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-18006
+Rb2CuNbS4_84304,structures/crystals.json,16,"[3, 3, 4]","Fig. 2, Table S-gaps",mp-15221
+Rb2CuNbSe4_84305,structures/crystals.json,16,"[3, 3, 4]","Fig. 2, Table S-gaps",mp-15222
+Rb2CuVS4_84302,structures/crystals.json,16,"[3, 3, 4]","Fig. 2, Table S-gaps",mp-15219
+Rb2TeBr6_49521,structures/crystals.json,9,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-23383
+Rb2TeI6_36009,structures/crystals.json,18,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-28070
+Rb2TiCu2S4_280644,structures/crystals.json,18,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-7129
+Rb3Sb2Br9_39823,structures/crystals.json,14,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-28222
+RbAg2SbS4_82145,structures/crystals.json,24,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-17756
+RbBr_22167,structures/crystals.json,2,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-22867
+RbCl_18016,structures/crystals.json,2,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-23295
+RbCu2VS4_280516,structures/crystals.json,16,"[4, 3, 3]","Fig. 2, Table S-gaps",mp-15998
+RbF_53828,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-11718
+RbI_22168,structures/crystals.json,2,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-22903
+ReS2_81814,structures/crystals.json,24,"[5, 5, 3]","Fig. 2, Table S-gaps",mp-572758
+ReSe2_81813,structures/crystals.json,12,"[5, 5, 4]","Fig. 2, Table S-gaps",mp-541582
+RuS2_68472,structures/crystals.json,12,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-2030
+RuSe2_68473,structures/crystals.json,12,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-1922
+RuTe2_65169,structures/crystals.json,12,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-1848
+Sb2O3_240206,structures/crystals.json,20,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-1999
+Sb2O3_240207,structures/crystals.json,20,"[6, 3, 6]","Fig. 2, Table S-gaps",mp-2136
+Sb2S3_171850,structures/crystals.json,20,"[3, 8, 3]","Fig. 2, Table S-gaps",mp-2809
+Sb2Se3_194836,structures/crystals.json,20,"[3, 7, 3]","Fig. 2, Table S-gaps",mp-2160
+Sb2Te3_193341,structures/crystals.json,5,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-1201
+SbF3_16142,structures/crystals.json,8,"[4, 7, 7]","Fig. 2, Table S-gaps",mp-1880
+SbI3_30906,structures/crystals.json,16,"[4, 3, 3]","Fig. 2, Table S-gaps",mp-569224
+SbNSr3_152052,structures/crystals.json,5,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-7752
+SbSBr_88584,structures/crystals.json,12,"[4, 3, 8]","Fig. 2, Table S-gaps",mp-22971
+SbSI_85301,structures/crystals.json,12,"[3, 7, 3]","Fig. 2, Table S-gaps",mp-23041
+SbSeI_35470,structures/crystals.json,12,"[3, 7, 3]","Fig. 2, Table S-gaps",mp-22996
+ScN_644666,structures/crystals.json,2,"[9, 9, 9]","Fig. 2, Table S-gaps",mp-2857
+ScNiSb_40296,structures/crystals.json,3,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-3432
+ScPdSb_415944,structures/crystals.json,3,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-569779
+Si3N4_170004,structures/crystals.json,14,"[4, 4, 10]","Fig. 2, Table S-gaps",mp-988
+SiC_156190,structures/crystals.json,12,"[10, 10, 3]","Fig. 2, Table S-gaps",mp-7631
+SiC_24170,structures/crystals.json,8,"[10, 10, 3]","Fig. 2, Table S-gaps",mp-11714
+SiC_603798,structures/crystals.json,2,"[10, 10, 10]","Fig. 2, Table S-gaps",mp-8062
+SiC_86253,structures/crystals.json,4,"[10, 10, 6]","Fig. 2, Table S-gaps",mp-7140
+SiO2_154289,structures/crystals.json,9,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-7000
+SiP2_43098,structures/crystals.json,24,"[3, 3, 9]","Fig. 2, Table S-gaps",mp-9996
+Si_51688,structures/crystals.json,2,"[8, 8, 8]",calibration (ten semiconductors),mp-149
+Sn2SbS2I3_23344,structures/crystals.json,16,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-561134
+SnBr2_411177,structures/crystals.json,12,"[3, 7, 3]","Fig. 2, Table S-gaps",mp-29862
+SnCl2_15452,structures/crystals.json,12,"[4, 7, 3]","Fig. 2, Table S-gaps",mp-569152
+SnO2_154960,structures/crystals.json,6,"[6, 6, 9]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-856
+SnS2_100610,structures/crystals.json,3,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-1170
+SnS_52108,structures/crystals.json,8,"[3, 8, 7]","Fig. 2, Table S-gaps",mp-2231
+SnSe2_43594,structures/crystals.json,3,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-665
+SnSe_186650,structures/crystals.json,8,"[3, 7, 7]","Fig. 2, Table S-gaps",mp-691
+SnTe_52489,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-1883
+Sn_40039,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-117
+Sr2PbO4_4418,structures/crystals.json,14,"[5, 3, 9]","Fig. 2, Table S-gaps",mp-20944
+Sr2TiO4_194713,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-5532
+Sr3Ti2O7_63704,structures/crystals.json,12,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-3349
+SrBiO2Cl_84636,structures/crystals.json,10,"[4, 4, 5]","Fig. 2, Table S-gaps",mp-547244
+SrCl2_196826,structures/crystals.json,3,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-23209
+SrCu2O2_25002,structures/crystals.json,10,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-13900
+SrGe2_152799,structures/crystals.json,24,"[3, 5, 3]","Fig. 2, Table S-gaps",mp-1244
+SrMoO4_239418,structures/crystals.json,12,"[4, 4, 6]","Fig. 2, Table S-gaps",mp-18834
+SrO_163625,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-2472
+SrPbO3_78682,structures/crystals.json,20,"[5, 4, 5]","Fig. 2, Table S-gaps",mp-20489
+SrS_249177,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-1087
+SrSeO4_40923,structures/crystals.json,24,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-4092
+SrSe_52429,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-2758
+SrSnO3_238971,structures/crystals.json,20,"[5, 4, 5]","Fig. 2, Table S-gaps",mp-2879
+SrTaO2N_411137,structures/crystals.json,10,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-552454
+SrTiO3_94573,structures/crystals.json,5,"[8, 8, 8]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-5229
+SrZrS3_154104,structures/crystals.json,20,"[4, 3, 4]","Fig. 2, Table S-gaps",mp-5193
+TaON_192423,structures/crystals.json,12,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-4165
+TeO2_161691,structures/crystals.json,12,"[6, 6, 4]","Fig. 2, Table S-gaps",mp-557
+TeO2_90733,structures/crystals.json,12,"[7, 6, 3]","Fig. 2, Table S-gaps",mp-8377
+TiO2_167953,structures/crystals.json,12,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-2657
+TiO2_92363,structures/crystals.json,6,"[5, 5, 5]","Fig. 2, Table S-gaps; Fig. 5d (cost)",mp-390
+Tl2AuPS4_85680,structures/crystals.json,16,"[5, 4, 3]","Fig. 2, Table S-gaps",mp-9510
+Tl2Cu2SnS4_171221,structures/crystals.json,18,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-18240
+Tl2TeBr6_99127,structures/crystals.json,18,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-31076
+Tl2TeI6_99128,structures/crystals.json,18,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-31077
+Tl2TeS3_391285,structures/crystals.json,24,"[3, 3, 5]","Fig. 2, Table S-gaps",mp-17172
+Tl3AsSe3_15148,structures/crystals.json,7,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-7684
+Tl4CdI6_60756,structures/crystals.json,22,"[3, 3, 3]","Fig. 2, Table S-gaps",mp-570339
+TlBr_61532,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-22875
+TlCl_5253,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps",mp-23167
+TlGaTe2_16243,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-3785
+TlI_258845,structures/crystals.json,4,"[4, 4, 6]","Fig. 2, Table S-gaps",mp-22858
+TlI_60491,structures/crystals.json,2,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-571102
+TlI_61520,structures/crystals.json,2,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-23197
+TlInSe2_180272,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-22232
+TlInTe2_16245,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-22791
+TlS_78161,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-322
+TlScS2_418474,structures/crystals.json,8,"[8, 8, 3]","Fig. 2, Table S-gaps",mp-13312
+TlScSe2_418475,structures/crystals.json,4,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-13313
+TlScTe2_418476,structures/crystals.json,4,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-13314
+TlSe_104189,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-1836
+TlTaS3_412385,structures/crystals.json,20,"[3, 9, 3]","Fig. 2, Table S-gaps",mp-10795
+TlTiPS5_171214,structures/crystals.json,16,"[4, 4, 3]","Fig. 2, Table S-gaps",mp-558747
+WS2_202366,structures/crystals.json,6,"[10, 10, 3]","Fig. 2, Table S-gaps",mp-224
+WSe2_40752,structures/crystals.json,6,"[9, 9, 3]","Fig. 2, Table S-gaps",mp-1821
+Xe_43428,structures/crystals.json,1,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-611517
+YF3_6023,structures/crystals.json,16,"[5, 4, 7]","Fig. 2, Table S-gaps",mp-2416
+YNiSb_105331,structures/crystals.json,3,"[7, 7, 7]","Fig. 2, Table S-gaps",mp-11520
+YPtSb_44970,structures/crystals.json,3,"[6, 6, 6]","Fig. 2, Table S-gaps",mp-4964
+ZnAl2S4_35380,structures/crystals.json,14,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4842
+ZnAs2_2021,structures/crystals.json,24,"[3, 4, 4]","Fig. 2, Table S-gaps",mp-7262
+ZnGa2Se4_44887,structures/crystals.json,7,"[5, 5, 4]","Fig. 2, Table S-gaps",mp-15776
+ZnGa2Te4_290911,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-15777
+ZnGeAs2_68324,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4008
+ZnGeN2_15144,structures/crystals.json,16,"[6, 5, 6]","Fig. 2, Table S-gaps",mp-2979
+ZnGeP2_23706,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-4524
+ZnIn2Te4_25650,structures/crystals.json,7,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-20832
+ZnO_162843,structures/crystals.json,4,"[9, 9, 6]",Fig. 3b (d levels); calibration (ten semiconductors),mp-2133
+ZnP2_250015,structures/crystals.json,24,"[3, 4, 4]","Fig. 2, Table S-gaps",mp-1392
+ZnS_291064,structures/crystals.json,2,"[8, 8, 8]","Fig. 2, Table S-gaps; Fig. 3b (d levels); Fig. 5d (cost)",mp-10695
+ZnS_67453,structures/crystals.json,4,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-560588
+ZnSb_43265,structures/crystals.json,16,"[5, 4, 4]","Fig. 2, Table S-gaps",mp-753
+ZnSe_77091,structures/crystals.json,2,"[7, 7, 7]",Fig. 3b (d levels); calibration (ten semiconductors),mp-1190
+ZnSiAs2_68323,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-3595
+ZnSiP2_23680,structures/crystals.json,8,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-4763
+ZnSnAs2_250389,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-5190
+ZnSnO3_245943,structures/crystals.json,10,"[5, 5, 5]","Fig. 2, Table S-gaps",mp-13334
+ZnSnP2_22179,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4175
+ZnSnSb2_651588,structures/crystals.json,8,"[4, 4, 4]","Fig. 2, Table S-gaps",mp-4756
+ZrS2_604434,structures/crystals.json,3,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-1186
+ZrSe2_109291,structures/crystals.json,3,"[8, 8, 5]","Fig. 2, Table S-gaps",mp-2076
+C60,structures/molecular_crystals.json,60,"[2, 2, 2]",Table S-molecular crystals,
+anthracene,structures/molecular_crystals.json,48,"[3, 4, 2]",Table S-molecular crystals,
+benzene,structures/molecular_crystals.json,48,"[3, 3, 4]",Table S-molecular crystals,
+naphthalene,structures/molecular_crystals.json,36,"[3, 4, 3]",Table S-molecular crystals,
+pentacene,structures/molecular_crystals.json,72,"[4, 3, 2]",Table S-molecular crystals,
+CoO_afm2,structures/open_shell_oxides.json,4,"[10, 10, 6]",Table S-open-shell,
+Cr2O3_b2,structures/open_shell_oxides.json,10,"[6, 6, 6]",Table S-open-shell,bench2
+Fe2O3_b2,structures/open_shell_oxides.json,10,"[6, 6, 6]",Table S-open-shell,bench2
+FeO_afm2,structures/open_shell_oxides.json,4,"[10, 10, 6]",Table S-open-shell,
+MnO_afm2,structures/open_shell_oxides.json,4,"[10, 10, 6]",Table S-open-shell,
+NiO_b2,structures/open_shell_oxides.json,4,"[10, 10, 6]",Table S-open-shell,bench2
+CsPbBr3_cub_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T450_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T450_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T450_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T450_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T450_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_md2_T450_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T300_s1_1,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T300_s1_2,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T300_s1_3,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T300_s2_1,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T300_s2_2,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T300_s2_3,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T450_s1_1,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T450_s1_2,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_mdP16_T450_s1_3,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbBr3_cub_poly2_s1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbCl3_cub_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbCl3_cub_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbCl3_cub_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbCl3_cub_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbCl3_cub_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbCl3_cub_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbCl3_cub_poly2_s1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br16of24_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br16of24_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br16of24_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br16of24_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br16of24_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br16of24_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br8of24_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br8of24_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br8of24_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br8of24_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br8of24_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Br8of24_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s3_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s3_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn2of8_md2_T300_s3_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s3_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s3_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn4of8_md2_T300_s3_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s3_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s3_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_Sn6of8_md2_T300_s3_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s3_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s3_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s3_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s3_4,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s3_5,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s3_6,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s4_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s4_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s4_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s4_4,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s4_5,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s4_6,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s5_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s5_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s5_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s5_4,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s5_5,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T300_s5_6,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T450_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T450_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T450_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T450_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T450_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T450_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T600_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T600_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T600_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T600_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T600_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md2_T600_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_md4_T300_s1_1,structures/perovskites.json,320,"[1, 1, 1]","SI perovskites (320-atom cell), SI cost",md snapshot
+CsPbI3_cub_md4_T300_s1_2,structures/perovskites.json,320,"[1, 1, 1]","SI perovskites (320-atom cell), SI cost",md snapshot
+CsPbI3_cub_md4_T300_s1_3,structures/perovskites.json,320,"[1, 1, 1]","SI perovskites (320-atom cell), SI cost",md snapshot
+CsPbI3_cub_mdP16_T300_s1_1,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_mdP16_T300_s1_2,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_mdP16_T300_s1_3,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_mdP16_T300_s2_1,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_mdP16_T300_s2_2,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_mdP16_T300_s2_3,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_mdP16_T600_s1_1,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_mdP16_T600_s1_2,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_mdP16_T600_s1_3,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_cub_poly2_s1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_gamma_md221_T300_s1_1,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_gamma_md221_T300_s1_2,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_gamma_md221_T300_s1_3,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsPbI3_gamma_poly221_s1,structures/perovskites.json,80,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnBr3_cub_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnBr3_cub_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnBr3_cub_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnBr3_cub_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnBr3_cub_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnBr3_cub_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnBr3_cub_poly2_s1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s1_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s1_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s1_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s2_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s2_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s2_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s3_1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s3_2,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_md2_T300_s3_3,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+CsSnI3_cub_poly2_s1,structures/perovskites.json,40,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Br24of24_md2_T300_s1_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Br24of24_md2_T300_s1_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Br24of24_md2_T300_s1_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Br24of24_md2_T300_s2_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Br24of24_md2_T300_s2_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Br24of24_md2_T300_s2_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn2of8_md2_T300_s1_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn2of8_md2_T300_s1_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn2of8_md2_T300_s1_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn2of8_md2_T300_s2_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn2of8_md2_T300_s2_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn2of8_md2_T300_s2_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn4of8_md2_T300_s1_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn4of8_md2_T300_s1_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn4of8_md2_T300_s1_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn4of8_md2_T300_s2_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn4of8_md2_T300_s2_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn4of8_md2_T300_s2_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn6of8_md2_T300_s1_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn6of8_md2_T300_s1_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn6of8_md2_T300_s1_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn6of8_md2_T300_s2_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn6of8_md2_T300_s2_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn6of8_md2_T300_s2_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn8of8_md2_T300_s1_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn8of8_md2_T300_s1_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn8of8_md2_T300_s1_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn8of8_md2_T300_s2_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn8of8_md2_T300_s2_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_Sn8of8_md2_T300_s2_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s1_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s1_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s1_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s3_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s3_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s3_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s4_1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s4_2,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_md2_T300_s4_3,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+FAPbI3_cub_poly2_s1,structures/perovskites.json,96,"[3, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+MAPbI3_orth_md111_T300_s3_1,structures/perovskites.json,48,"[4, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+MAPbI3_orth_md111_T300_s3_2,structures/perovskites.json,48,"[4, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+MAPbI3_orth_md111_T300_s3_3,structures/perovskites.json,48,"[4, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+MAPbI3_orth_md111_T300_s4_1,structures/perovskites.json,48,"[4, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+MAPbI3_orth_md111_T300_s4_2,structures/perovskites.json,48,"[4, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+MAPbI3_orth_md111_T300_s4_3,structures/perovskites.json,48,"[4, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+MAPbI3_orth_poly111_s3,structures/perovskites.json,48,"[4, 3, 3]","Fig. 4, Table S-perovskites",md snapshot
+AlSb_110,structures/surfaces.json,22,"[7, 4, 1]",Fig. 3a (surfaces),
+CdTe_110,structures/surfaces.json,22,"[7, 4, 1]",Fig. 3a (surfaces),
+GaAs_110,structures/surfaces.json,22,"[8, 4, 1]",Fig. 3a (surfaces),
+GaP_110,structures/surfaces.json,22,"[8, 4, 1]",Fig. 3a (surfaces),
+InP_110,structures/surfaces.json,22,"[7, 4, 1]",Fig. 3a (surfaces),
+MgO_100,structures/surfaces.json,18,"[10, 10, 1]",Fig. 3a (surfaces),
+TiO2_110,structures/surfaces.json,42,"[5, 10, 1]",Fig. 3a (surfaces),
+ZnO_10-10,structures/surfaces.json,28,"[9, 6, 1]",Fig. 3a (surfaces),
+ZnS_110,structures/surfaces.json,22,"[8, 5, 1]",Fig. 3a (surfaces),
+ZnSe_110,structures/surfaces.json,22,"[7, 4, 1]",Fig. 3a (surfaces),
+ZnTe_110,structures/surfaces.json,22,"[7, 4, 1]",Fig. 3a (surfaces),

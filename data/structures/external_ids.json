@@ -1,0 +1,551 @@
+{
+ "monolayers_c2db": [
+  {
+   "key": "2D_As4",
+   "c2db_uid": "4As-1",
+   "kpts": [
+    8,
+    6,
+    1
+   ],
+   "structure": "C2DB 4As-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_Au2O2",
+   "c2db_uid": "2AuO-1",
+   "kpts": [
+    10,
+    5,
+    1
+   ],
+   "structure": "C2DB 2AuO-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_BN",
+   "c2db_uid": "1BN-1",
+   "kpts": [
+    12,
+    12,
+    1
+   ],
+   "structure": "C2DB 1BN-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_CaF2",
+   "c2db_uid": "1CaF2-2",
+   "kpts": [
+    8,
+    8,
+    1
+   ],
+   "structure": "C2DB 1CaF2-2 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_CdBr2",
+   "c2db_uid": "1CdBr2-2",
+   "kpts": [
+    7,
+    7,
+    1
+   ],
+   "structure": "C2DB 1CdBr2-2 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_CrSTe",
+   "c2db_uid": "1CrSTe-1",
+   "kpts": [
+    9,
+    9,
+    1
+   ],
+   "structure": "C2DB 1CrSTe-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_Cu2Br2",
+   "c2db_uid": "2BrCu-3",
+   "kpts": [
+    8,
+    8,
+    1
+   ],
+   "structure": "C2DB 2BrCu-3 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_Cu2Cl2",
+   "c2db_uid": "2ClCu-4",
+   "kpts": [
+    8,
+    8,
+    1
+   ],
+   "structure": "C2DB 2ClCu-4 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_Cu2S2",
+   "c2db_uid": "2CuS-2",
+   "kpts": [
+    9,
+    6,
+    1
+   ],
+   "structure": "C2DB 2CuS-2 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_Ge2Se2",
+   "c2db_uid": "2GeSe-1",
+   "kpts": [
+    7,
+    8,
+    1
+   ],
+   "structure": "C2DB 2GeSe-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_HfS2",
+   "c2db_uid": "1HfS2-1",
+   "kpts": [
+    8,
+    8,
+    1
+   ],
+   "structure": "C2DB 1HfS2-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_ISSb",
+   "c2db_uid": "1ISSb-1",
+   "kpts": [
+    7,
+    7,
+    1
+   ],
+   "structure": "C2DB 1ISSb-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_MoTe2",
+   "c2db_uid": "1MoTe2-1",
+   "kpts": [
+    8,
+    8,
+    1
+   ],
+   "structure": "C2DB 1MoTe2-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_P4",
+   "c2db_uid": "4P-1",
+   "kpts": [
+    6,
+    9,
+    1
+   ],
+   "structure": "C2DB 4P-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_Pb2S2",
+   "c2db_uid": "2PbS-1",
+   "kpts": [
+    7,
+    7,
+    1
+   ],
+   "structure": "C2DB 2PbS-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_PtS2",
+   "c2db_uid": "1PtS2-1",
+   "kpts": [
+    8,
+    8,
+    1
+   ],
+   "structure": "C2DB 1PtS2-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_S2Si2",
+   "c2db_uid": "2SSi-1",
+   "kpts": [
+    6,
+    9,
+    1
+   ],
+   "structure": "C2DB 2SSi-1 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_S2Tl2",
+   "c2db_uid": "2STl-3",
+   "kpts": [
+    7,
+    7,
+    1
+   ],
+   "structure": "C2DB 2STl-3 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_Te2Ti2",
+   "c2db_uid": "2TeTi-5",
+   "kpts": [
+    8,
+    8,
+    1
+   ],
+   "structure": "C2DB 2TeTi-5 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  },
+  {
+   "key": "2D_Te2Zr2",
+   "c2db_uid": "2TeZr-5",
+   "kpts": [
+    8,
+    8,
+    1
+   ],
+   "structure": "C2DB 2TeZr-5 monolayer (vacuum as in C2DB)",
+   "gap_ref": "C2DB G0W0 (with SOC), Table 1 of Rauch et al. PRB 101, 245163 (2020)",
+   "used_in": "Fig. 3c (monolayers)"
+  }
+ ],
+ "independent_set_materials_project": [
+  {
+   "formula": "PS3Hg",
+   "mp_id": "mp-aaaabofi",
+   "gap_exp": 2.6,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Li2S4CdSn",
+   "mp_id": "mp-aaacpqom",
+   "gap_exp": 3.26,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Se2SbCs",
+   "mp_id": "mp-aaaaaekf",
+   "gap_exp": 1.7,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "O6Ca2ScSb",
+   "mp_id": "mp-aaacprrc",
+   "gap_exp": 3.68,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Te2TlBi",
+   "mp_id": "mp-aaaabopi",
+   "gap_exp": 0.12,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "SeRuSb",
+   "mp_id": "mp-aaackstv",
+   "gap_exp": 0.9,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S2RbBi",
+   "mp_id": "mp-aaaabsll",
+   "gap_exp": 1.26,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "SK2",
+   "mp_id": "mp-aaaaabni",
+   "gap_exp": 2.1,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "PGe",
+   "mp_id": "mp-aaackifz",
+   "gap_exp": 0.95,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Br2Hg",
+   "mp_id": "mp-aaaabilw",
+   "gap_exp": 3.59,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Cl2Hg",
+   "mp_id": "mp-aaaabhvb",
+   "gap_exp": 4.45,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "F6NaSb",
+   "mp_id": "mp-aaaaaivb",
+   "gap_exp": 3.76,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Al2Se3",
+   "mp_id": "mp-aaaaarha",
+   "gap_exp": 3.125,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S3Zr",
+   "mp_id": "mp-aaaaaorp",
+   "gap_exp": 2.225,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "BeS",
+   "mp_id": "mp-aaaaaaqg",
+   "gap_exp": 4.17,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "FCs",
+   "mp_id": "mp-aaaaacqq",
+   "gap_exp": 10.0,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "O3As2",
+   "mp_id": "mp-aaaaaciw",
+   "gap_exp": 4.0,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "SeTe2Bi2",
+   "mp_id": "mp-aaaabrxa",
+   "gap_exp": 0.3,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "SbCs",
+   "mp_id": "mp-aaabgqkg",
+   "gap_exp": 0.705,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "P2S8Pd3",
+   "mp_id": "mp-aaaaaelq",
+   "gap_exp": 2.12,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "K2Te",
+   "mp_id": "mp-aaaaacpf",
+   "gap_exp": 1.9,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "HBO4Pb2",
+   "mp_id": "mp-aaackwzb",
+   "gap_exp": 3.76,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "LiMgAs",
+   "mp_id": "mp-aaaaaspa",
+   "gap_exp": 0.7,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S4K2CuNb",
+   "mp_id": "mp-aaaaaoln",
+   "gap_exp": 2.82,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Li3Bi",
+   "mp_id": "mp-aaaabije",
+   "gap_exp": 0.7,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Cl2Cd",
+   "mp_id": "mp-aaaabhwb",
+   "gap_exp": 5.75,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Na2S",
+   "mp_id": "mp-aaaaaayy",
+   "gap_exp": 2.4,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Ca2As2Cd",
+   "mp_id": "mp-aaackici",
+   "gap_exp": 0.95,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S4Cu3Ta",
+   "mp_id": "mp-aaaaapxk",
+   "gap_exp": 3.0,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "O6ScSr2Sb",
+   "mp_id": "mp-aaackykw",
+   "gap_exp": 3.57,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Na4MgGe2Se6",
+   "mp_id": "mp-aaackute",
+   "gap_exp": 2.53,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "TeCs2",
+   "mp_id": "mp-aaabgqtv",
+   "gap_exp": 3.5,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S2AgSb",
+   "mp_id": "mp-aaaaafuw",
+   "gap_exp": 1.9,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Se4Hg3Tl2",
+   "mp_id": "mp-aaackxqq",
+   "gap_exp": 1.57,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "SiS4ZnAg2",
+   "mp_id": "mp-aaacpsfy",
+   "gap_exp": 3.28,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Se2Pt",
+   "mp_id": "mp-aaaaabqx",
+   "gap_exp": 0.1,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "Cu3Se4Nb",
+   "mp_id": "mp-aaaaafzn",
+   "gap_exp": 2.45,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S4Cs2Hg3",
+   "mp_id": "mp-aaackxgd",
+   "gap_exp": 2.8,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "P4Os",
+   "mp_id": "mp-aaackuxm",
+   "gap_exp": 0.5,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "PSOs",
+   "mp_id": "mp-aaacksze",
+   "gap_exp": 1.4,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "N2MgSi",
+   "mp_id": "mp-aaaaafll",
+   "gap_exp": 4.05,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S3Sc2",
+   "mp_id": "mp-aaaaaapl",
+   "gap_exp": 2.0,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S2Tc",
+   "mp_id": "mp-aaaaaoar",
+   "gap_exp": 1.0,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S3Ti",
+   "mp_id": "mp-aaaaaoro",
+   "gap_exp": 0.9,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "GeI2",
+   "mp_id": "mp-aaaabphy",
+   "gap_exp": 1.5,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "KSb",
+   "mp_id": "mp-aaaaachc",
+   "gap_exp": 0.9,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "S4Cu2ZnGe",
+   "mp_id": "mp-aaaaajmm",
+   "gap_exp": 2.1,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "ICs",
+   "mp_id": "mp-aaabizep",
+   "gap_exp": 6.37,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "As2Ir",
+   "mp_id": "mp-aaaaaxdx",
+   "gap_exp": 1.0,
+   "used_in": "independent validation set"
+  },
+  {
+   "formula": "SiAs",
+   "mp_id": "mp-aaaaactr",
+   "gap_exp": 1.48,
+   "used_in": "independent validation set"
+  }
+ ],
+ "notes": [
+  "GW100 molecules: geometries of the GW100 set (van Setten et al. 2015), CAS numbers in the calibration data.",
+  "GMTKN55 subsets W4-11, BH76, G21IP, G21EA: geometries of GMTKN55 (Goerigk et al. 2017).",
+  "Formation enthalpies: Materials Project structures of the measured polymorphs (Wang et al. 2021 set)."
+ ]
+}

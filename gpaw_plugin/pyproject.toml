@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "locus-gpaw"
+version = "0.1.0"
+description = "LOCUS for GPAW and the GPAW exporter of the E_S input"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.22", "ase>=3.22"]
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
